@@ -14,7 +14,7 @@ Use SFTP and FTP features inside Atom, having the ability to upload and download
 ## Extras
 
 - Toggle for uploading changes automatically when you save a file
-- Define files to be monitored to be automatically monitoring
+- Define files to be automatically monitored
 - Set difftoolCommand in AtomSettingView of `remote-sync` -- The path to your diff tool executable
 - Toggle the logs for extra information
 - Toggle the hiding and showing of the log panel
